@@ -6,6 +6,7 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
+		"ext-mbstring": "*",
         "devitek/yaml-translation": "1.*",
 		"intervention/image": "~2.1",
         "laravel/socialite": "3.0.*@dev",
